@@ -1,10 +1,10 @@
 ### Hi there, I'm Andres - aka [FVTVLIX][website] 👋
 
-## I'm a Developer, Musician, and Foodie!
+## I'm a Developer, Musician, and Artist!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to cook!
 
