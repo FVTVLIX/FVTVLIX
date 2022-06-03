@@ -4,7 +4,7 @@
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to cook!
 
