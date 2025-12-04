@@ -42,7 +42,7 @@
 [website]: https://andresg.dev
 [twitter]: 
 [youtube]: 
-[instagram]: https://instagram.com/pantone.papi/
+[instagram]:
 [linkedin]: https://www.linkedin.com/in/andresxgonzalez/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
