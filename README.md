@@ -38,8 +38,8 @@
 
   <!-- GITHUB STATS -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=FVTVLIX&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=7000FF" height="150" alt="FVTVLIX's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FVTVLIX&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00F0FF" height="150" alt="Top Langs" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=FVTVLIX&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=7000FF" height="150" alt="FVTVLIX's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FVTVLIX&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00F0FF" height="150" alt="Top Langs" /> -->
   </div>
 
   <br/>
